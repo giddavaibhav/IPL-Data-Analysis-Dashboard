@@ -13,6 +13,25 @@ Interactive Excel dashboard built using IPL data from 2008 to 2025.
 - Team-wise Wins Analysis
 - Toss Decision Analysis
 - Top 10 Venues Analysis
+  
+## Skills Demonstrated
+ 
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Design
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- VLOOKUP
+
+## Business Insights
+
+- Most successful IPL teams
+- Toss decision trends
+- Venue-wise match analysis
+- Season-wise performance analysis
+- Player of the Season tracking
 
 ## Tools Used
 
